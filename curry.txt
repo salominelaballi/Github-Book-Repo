@@ -1,0 +1,4 @@
+curry recipie:
+ingredients: ab,c,c,c,c
+procedure :cook everything
+result: serve
