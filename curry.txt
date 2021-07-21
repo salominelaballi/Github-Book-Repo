@@ -1,4 +1,5 @@
 curry recipie:
 ingredients: onion,tomato
-procedure :cook everything
+procedure :cook everythings
+procedure : add more procedure
 result: serves
