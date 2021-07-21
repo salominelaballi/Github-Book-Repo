@@ -1,4 +1,4 @@
 curry recipie:
 ingredients: onion,tomato
 procedure :cook everything
-result: serve
+result: serves
