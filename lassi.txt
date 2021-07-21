@@ -1,0 +1,4 @@
+lassi recipie:
+ingredients: curd,mango
+procedure :cook everything
+result: serve
