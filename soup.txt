@@ -1,4 +1,4 @@
 Soup recipie:
-ingredients: broth,soup 
+ingredients: broth,soup, sppices
 procedure :cook everything
 result: serve soup

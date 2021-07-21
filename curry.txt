@@ -1,4 +1,4 @@
 curry recipie:
-ingredients: ab,c,c,c,c
+ingredients: onion,tomato
 procedure :cook everything
 result: serve
