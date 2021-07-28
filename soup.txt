@@ -1,9 +1,0 @@
-chicken Soup recipie:
-ingredients: broth,soup, sppices, chicken
-procedure :cook everything
-result: serve soup
-
- muchroon Soup recipie:
-ingredients: broth,soup, sppices, mushroom
-procedure :cook everything
-result: serve soup
